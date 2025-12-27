@@ -37,8 +37,10 @@ Since 2018, I have served as the **Project Lead and Owner** of one of the intern
 | **Databases** | MS-SQL, PostgreSQL, Redis, Elasticsearch, CosmosDB, DynamoDB |
 
 ### 📊 GitHub Insights
-![Wesley's GitHub stats]([https://github-readme-stats.vercel.app/api?username=starhound&show_icons=true&theme=tokyonight&count_private=true](https://github-readme-stats.vercel.app/api?username=starhound&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starhound&layout=compact&theme=tokyonight)
+
+![Wesley's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=starhound&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=starhound&layout=compact&theme=tokyonight&hide=html,css)
 
 ### 📫 Let's Connect
 - **Digital Resume:** [starhound.com](https://starhound.com)
