@@ -43,8 +43,6 @@ Since 2018, I have served as the **Project Lead and Owner** of one of the intern
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=starhound&layout=compact&theme=tokyonight&hide=html,css)
 
 ### 📫 Let's Connect
-- **Digital Resume:** [starhound.com](https://starhound.com)
-- **LinkedIn:** [linkedin.com/in/starhound](https://www.linkedin.com/in/starhound) 
 - **The MUD:** [lostsouls.org](https://lostsouls.org)
 
 ---
