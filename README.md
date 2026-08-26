@@ -9,7 +9,7 @@ Beyond the enterprise, I am the long-term architect of **Lost Souls MUD**, a pro
 
 ### 🌌 The Lost Souls MUD Pillar
 Since 2018, I have served as the **Project Lead and Owner** of one of the internet’s longest-running and most technically complex virtual worlds.
-* **Legacy Stewardship:** Managing a 35-year-old codebase (LPC/C) with hundreds of thousands of lines of code, refactoring legacy drivers, and modernizing the *Ain Soph* mudlib.
+* **Legacy Stewardship:** Managing a 35-year-old codebase (LPC/C) with millions of lines of code, refactoring legacy drivers, and modernizing the *Ain Soph* mudlib.
 * **Complex Systems:** Architecting intricate engine features including A* search algorithms, limb-based physical modeling, and complex AI behaviors that predated modern LLMs.
 * **Platform Engineering:** Operating a multi-node **Kubernetes** platform that handles real-time telemetry, monitoring, and web APIs for a global user base.
 * **Team Leadership:** Directing a volunteer development team of over 10 international software professionals, enforcing documentation standards, and implementing modern CI/CD workflows for a historically "un-automatable" environment.
